@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- === AECR GAMEX Brand Colors === -->
+
+    <!-- Primary Neon Palette -->
+    <color name="neon_cyan">#00F5FF</color>
+    <color name="neon_green">#39FF14</color>
+    <color name="neon_blue">#0080FF</color>
+    <color name="neon_purple">#BF00FF</color>
+    <color name="neon_orange">#FF6600</color>
+
+    <!-- Dark Background Layers -->
+    <color name="bg_primary">#080C14</color>
+    <color name="bg_secondary">#0D1421</color>
+    <color name="bg_card">#111827</color>
+    <color name="bg_card_elevated">#162032</color>
+    <color name="bg_surface">#1A2540</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8899BB</color>
+    <color name="text_accent">#00F5FF</color>
+    <color name="text_muted">#445566</color>
+
+    <!-- Boost Button Gradient -->
+    <color name="boost_center">#00F5FF</color>
+    <color name="boost_ring1">#0066CC</color>
+    <color name="boost_ring2">#003366</color>
+    <color name="boost_ring3">#001133</color>
+
+    <!-- Status Colors -->
+    <color name="status_excellent">#39FF14</color>
+    <color name="status_good">#00F5FF</color>
+    <color name="status_warning">#FF8C00</color>
+    <color name="status_danger">#FF2244</color>
+
+    <!-- Card Border Glow -->
+    <color name="glow_cyan_alpha">#3300F5FF</color>
+    <color name="glow_green_alpha">#3339FF14</color>
+
+    <!-- Divider -->
+    <color name="divider">#1A2540</color>
+</resources>

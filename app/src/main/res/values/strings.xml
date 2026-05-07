@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Branding -->
+    <string name="app_name">AECR GAMEX</string>
+    <string name="app_tagline">ULTIMATE GAME OPTIMIZER</string>
+    <string name="app_version">v1.0.0</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_sensitivity">Sensitivity</string>
+    <string name="nav_my_games">My Games</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">SYSTEM STATUS</string>
+    <string name="boost_btn_label">BOOST</string>
+    <string name="boost_btn_boosting">BOOSTING…</string>
+    <string name="boost_done">BOOST COMPLETE</string>
+    <string name="ram_label">RAM</string>
+    <string name="storage_label">STORAGE</string>
+    <string name="cpu_label">CPU</string>
+    <string name="temp_label">TEMP</string>
+    <string name="ram_freed">RAM Freed</string>
+    <string name="processes_killed">Processes Killed</string>
+    <string name="boost_success_title">BOOST ACTIVATED</string>
+    <string name="boost_success_msg">System optimized successfully for gaming.</string>
+
+    <!-- Sensitivity -->
+    <string name="sensitivity_title">SENSITIVITY BOOST</string>
+    <string name="touch_response">Touch Response</string>
+    <string name="fps_stable">FPS Stabilizer</string>
+    <string name="sensitivity_level">Sensitivity Level</string>
+    <string name="apply_settings">APPLY SETTINGS</string>
+    <string name="settings_applied">Settings Applied</string>
+    <string name="touch_latency">Touch Latency</string>
+    <string name="frame_rate">Frame Rate</string>
+    <string name="ms_unit">ms</string>
+    <string name="fps_unit">FPS</string>
+
+    <!-- My Games -->
+    <string name="my_games_title">MY GAMES</string>
+    <string name="add_game">Add Game</string>
+    <string name="no_games_title">No Games Added</string>
+    <string name="no_games_msg">Tap the + button to add your games</string>
+    <string name="select_app">Select an App</string>
+    <string name="search_apps">Search apps…</string>
+    <string name="launch_game">Launch Game</string>
+    <string name="remove_game">Remove</string>
+
+    <!-- Boot Animation -->
+    <string name="launching">LAUNCHING</string>
+    <string name="preparing_engine">Preparing Game Engine…</string>
+    <string name="optimizing">Optimizing System…</string>
+    <string name="ready">READY</string>
+
+    <!-- Status Labels -->
+    <string name="status_excellent">EXCELLENT</string>
+    <string name="status_good">GOOD</string>
+    <string name="status_warning">WARNING</string>
+    <string name="status_critical">CRITICAL</string>
+</resources>
